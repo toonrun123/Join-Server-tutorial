@@ -1,4 +1,4 @@
-# Join-Server-tutorial
+# Join-Server-tutorial (not work on mobile)
 #### 1.Go https://www.roblox.com
 #### 2.Copy JavaScript.
 ![Copyyyyyyyyyyyyyy](https://gyazo.com/b31e9a04181e73e6a9320268bc54d19a.gif)
